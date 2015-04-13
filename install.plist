@@ -33,9 +33,9 @@
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>cn.shgold.app2.ThousandStone</string>
+				<string>cn.shgold.app.ThousandStone</string>
 				<key>bundle-version</key>
-				<string>1.0.0</string>
+				<string>1.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>subtitle</key>
